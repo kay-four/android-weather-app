@@ -112,3 +112,18 @@ No API keys, `local.properties` secrets, or backend setup required.
   DataStore, so returning users see data immediately.
 
 
+## Screenshots:
+
+<img width="1080" height="2340" alt="Screenshot_20260708_113141" src="https://github.com/user-attachments/assets/f6e6d1a9-6371-4274-a327-6bd0241063bf" />
+
+
+<img width="1080" height="2340" alt="Screenshot_20260708_113836" src="https://github.com/user-attachments/assets/923e2061-4acc-461b-a6c6-71b379102c4b" />
+
+<img width="1080" height="2340" alt="Screenshot_20260708_113917" src="https://github.com/user-attachments/assets/4aec92c1-ae30-42d2-8ca5-fc798fd080c3" />
+
+
+
+
+
+
+
