@@ -111,14 +111,4 @@ No API keys, `local.properties` secrets, or backend setup required.
 - The last successful search is restored automatically on next launch via
   DataStore, so returning users see data immediately.
 
-## Possible extensions
 
-This project intentionally stays small, but natural next steps if you want
-to keep building on it:
-
-- **Room** for a proper favorites/history list instead of a single last city
-- **Paging 3** if you add a search-suggestions list from the geocoding API
-- **WorkManager** for background weather refresh + notifications
-- **Unit tests** for `WeatherRepositoryImpl` and `WeatherViewModel` (Turbine
-  pairs nicely with the `StateFlow`-based state here)
-- **CI** via GitHub Actions running `./gradlew test lint` on push
