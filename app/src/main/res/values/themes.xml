@@ -1,0 +1,4 @@
+<resources>
+    <!-- Minimal base theme; actual theming is handled by Jetpack Compose (WeatherAppTheme). -->
+    <style name="Theme.WeatherApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
